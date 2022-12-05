@@ -1,4 +1,5 @@
-f = open("a.csv", "r", encoding="utf-8")
+#f = open("a.csv", "r", encoding="utf-8")
+f = open("a.csv", "r")
 
 s = []
 for i in f:
